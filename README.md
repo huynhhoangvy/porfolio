@@ -1,4 +1,4 @@
-# [Portfolio - Vy Huynh Hoang]
+# [Portfolio - Vy Huynh Hoang](https://vy-portfolio.netlify.com)
 
 [Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
@@ -10,6 +10,7 @@
 
 ## Status
 
+<<<<<<< HEAD
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-agency.svg)](https://www.npmjs.com/package/startbootstrap-agency)
 [![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-agency.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-agency)
@@ -62,6 +63,11 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 * https://github.com/davidtmiller
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+=======
+* **[LinkedIn](https://www.linkedin.com/in/vy-huynh-hoang-1a6649156/)**
+* **[Github](https://github.com/huynhhoangvy/)**
+* **Gmail: huynh.h.vy@gmail.com**
+>>>>>>> 82b32a5c628fbe64641a5b3e476e78e627c9f22b
 
 ## Copyright and License
 
