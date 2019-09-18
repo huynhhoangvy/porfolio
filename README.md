@@ -10,8 +10,8 @@
 
 ## Contact
 
-* **[LinkedIn](https://github.com/BlackrockDigital/startbootstrap-agency/issues)**
-* **[Github](https://github.com/BlackrockDigital/startbootstrap-agency/issues)**
+* **[LinkedIn](https://www.linkedin.com/in/vy-huynh-hoang-1a6649156/)**
+* **[Github](https://github.com/huynhhoangvy/)**
 * **Gmail: huynh.h.vy@gmail.com**
 
 ## Copyright and License
