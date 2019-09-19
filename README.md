@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Preview](https://i.imgur.com/g2jWOxd.png)(http://vy-portfolio.netlify.com)
+![Preview](https://i.imgur.com/g2jWOxd.png)
 
 **[View Live Preview](http://vy-portfolio.netlify.com)**
 
